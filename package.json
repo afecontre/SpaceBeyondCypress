@@ -1,0 +1,20 @@
+{
+  "name": "spacebeyond",
+  "version": "1.0.0",
+  "description": "utomatización en la aplicación \"SPACE & BEYOND\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QA",
+    "automation",
+    "prueba",
+    "pratica"
+  ],
+  "author": "Andres Contreras",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  }
+}
