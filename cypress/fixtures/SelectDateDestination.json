@@ -1,8 +1,8 @@
 {
-  "selectDeaparting": ":nth-child(1) > [data-react-toolbox=\"date-picker\"] > .theme__input___qUQeP > .theme__inputElement___27dyY",
+  "selectDeaparting": "(//input[@role='input'])[1]",
   "selectDay": ":nth-child(30) > span",
   "selectConfirm": ".theme__navigation___3eiS- > :nth-child(2)",
-  "selectReturning": ":nth-child(2) > [data-react-toolbox=\"date-picker\"] > .theme__input___qUQeP > .theme__inputElement___27dyY",
+  "selectReturning": "(//input[@role='input'])[2]",
   "selectDayReturing": ":nth-child(8) > span",
   "selectConfirm2": ".theme__navigation___3eiS- > :nth-child(2) "
 }

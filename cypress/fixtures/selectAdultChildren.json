@@ -1,3 +1,5 @@
 {
-    "selectDeaparting": "(//input[@role='input'])[1]",
+    "selectAdult": "(//input[@role='input'])[3]",
+    "selectChildre": "(//input[@role='input'])[4]"
+
 }

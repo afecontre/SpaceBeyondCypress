@@ -1,0 +1,4 @@
+{
+  "selectLaunch": "(//input[@role='input'])[5]",
+  "btnBook": "(//button[contains(.,'Book')])[1]"
+}

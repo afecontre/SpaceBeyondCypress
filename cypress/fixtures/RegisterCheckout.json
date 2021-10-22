@@ -1,0 +1,7 @@
+{
+  "registerName": "form > :nth-child(1) > .theme__inputElement___27dyY",
+  "registerEmail": "form > :nth-child(2) > .theme__inputElement___27dyY",
+  "registerSocilaSecurity": "form > :nth-child(3) > .theme__inputElement___27dyY",
+  "registerPhone": "form > :nth-child(4) > .theme__inputElement___27dyY",
+  "btnBook": "(//button[contains(.,'Book')])[1]"
+}
